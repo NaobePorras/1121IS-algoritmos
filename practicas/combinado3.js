@@ -29,5 +29,5 @@ if(n1 > n2){
         break;
     }
 }else{
-    console.log("n1 es mayor que n2"); 
+    console.log("n1 es menor que n2"); 
 }
